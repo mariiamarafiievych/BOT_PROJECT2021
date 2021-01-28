@@ -1,5 +1,4 @@
-pyTelegramBotAPI==3.6.3
+pyTelegramBotAPI==2.2.3
 pandas==1.1.4
-telebot==0.0.3
 Pillow==8.0.1
 requests==2.7.0
